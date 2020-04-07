@@ -2,6 +2,7 @@
 Chat Boot Covid19 Bahasa Indonesia
 
 Membuat Chat Boot Informasi Covid-19
+-Javascript
 
 https://nest-code.github.io/chat-boot/.
 
